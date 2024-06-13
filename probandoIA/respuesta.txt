@@ -1,0 +1,193 @@
+Write a Python program that prints 'Hello, world!' to the terminal.
+
+Let's run it:
+
+$ python print # Hello, world! print "Hello, world!"
+
+When you run it, you get:
+
+Hello, world!
+
+This is probably not a good idea as it will print out a bad message.
+
+The program will run and it will print out a "Hello, world!" message.
+
+Python does not support all the features that Python is designed to offer. It has, however, many common functionality that is not as great in some areas without some improvements.
+
+We will go over some of these common features in more detail.
+
+Beware of Curses
+
+Curses is a very popular scripting language. There are many popular languages out there, but most of them are designed to be used by a beginner to work with.
+
+Curses is designed to be used by a beginner. There are many popular languages out there, but most of them are designed to be used by a beginner to work with.
+
+There is no reason to use Curses over Python.
+
+Python is one of the most widely used scripting languages out there. It is not a scripting language like C++ or Java or C#.
+
+There is no reason to use Curses over Python.
+
+Python is a scripting language. It is not a scripting language like C++ or Java or C#.
+
+It is not a scripting language like C++ or Java or C#.
+
+Python is not a scripting language like C++ or Java or C#.
+
+Python is not a scripting language like C++ or Java or C#.
+
+Python is just a scripting language. It has many features.
+
+Python is just a scripting language. It has many features.
+
+Python is just a scripting language. It has many features.
+
+The list of features that Python has is long and complex. It is written in Python. It is written with many different languages. It is written in C.
+
+Python is written in Python. It is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C.
+
+Python is written in C
